@@ -1,2 +1,2 @@
 # Spring-Cloud
-Microservices Example with Spring Boot Spring Cloud
+Microservices Example with Spring Boot and Spring Cloud
